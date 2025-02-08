@@ -56,6 +56,13 @@ The system uses a structure `student` to hold information about each student, wh
 
 
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
+
+
 
 
 
